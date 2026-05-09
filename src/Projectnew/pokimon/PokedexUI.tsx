@@ -14,7 +14,7 @@ import {
 } from "lucide-react";
 
 // Provided Imports
-import International_Pokémon_logo from "./pokimages/International_Pokémon_logo.svg";
+import International_Pokémon_logo from "./pokimages/Internationallogo.png";
 import Pawniard from "./pokimages/Pawniard.png";
 import Houndoom from "./pokimages/Houndoom.png";
 import Inkay from "./pokimages/Inkay.png";
